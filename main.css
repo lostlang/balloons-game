@@ -36,6 +36,7 @@ html, body {
     box-sizing: border-box;
     height:60px;
     width:40px;
+    position: absolute;
 }
 
 .red {
